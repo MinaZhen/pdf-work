@@ -1,0 +1,38 @@
+{
+  "mainFile": "filename.pdf",
+  "keyword1": "whatever keyword to find",
+  "keyword2": "whatever keyword to find",
+  "newPathName": "../files/newFiles",
+
+  "admin": {
+    "service": "hotmail or gmail or whatever",
+    "email": "admin email",
+    "pass": "admin mail password"
+  },
+  "workers" : [
+    {
+      "email" : "john.doe@email.com",
+      "name": "doe doe, john",
+      "dni": "00000000t"
+    },
+    {
+      "email" : "email 2",
+      "name": "name 2",
+      "dni": "00000000y"
+    }
+  ],
+  "months" : [
+    "enero",
+    "febrero",
+    "marzo",
+    "abril",
+    "mayo",
+    "junio",
+    "julio",
+    "agosto",
+    "septiembre",
+    "octubre",
+    "noviembre",
+    "diciembre"
+  ]  
+}

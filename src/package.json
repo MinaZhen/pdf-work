@@ -1,0 +1,17 @@
+{
+  "name": "sendpdftesthummus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hummus-recipe": "^1.8.1",
+    "nodemailer": "^5.1.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
